@@ -1,0 +1,9 @@
+activate ml_GNN6
+cd C:\Users\Nicolai.Bloch.Jessen\Desktop\Julies Mad App
+streamlit run Run_app.py
+
+
+
+
+
+
